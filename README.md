@@ -104,7 +104,7 @@
 <details>
   <summary>Use Eldritch Altars [LONG TIME GRIND]</summary>
   
- - [ ] Activate Searing Exarch Altars with Wrath of the Cosmos allocated (14/250)
+ - [ ] Activate Searing Exarch Altars with Wrath of the Cosmos allocated (30/250)
  - [ ] Activate Eater of Worlds Altars with Eldritch Gaze allocated (0/250)
  - [ ] Defeat a Tier 16 Map Boss in a Rare Map after having activated at least 6 Searing Exarch Altars in an area with Wrath of the Cosmos allocated									        
  - [ ] Defeat a Tier 16 Map Boss in a Rare Map after having activated at least 4 Eater of Worlds Altars which have modifiers that affect the Map Boss with Eldritch Gaze allocated
@@ -114,7 +114,7 @@
   <summary>Sheer Arrogance [CAN BUY or DIY]</summary>
   
  - [ ] Screaming Invitation              
- - [ ] Incandescent Invitation           
+ - [x] Incandescent Invitation           
  - [ ] Maven's Invitation: The Forgotten 
  - [ ] Maven's Invitation: The Hidden    
  - [ ] Maven's Invitation: The Feared
@@ -155,7 +155,7 @@
 <details>
   <summary>Atlas Grinds [LONG TIME GRIND]</summary>
   
- - [ ] Activate Searing Exarch Altars (63/1000)  
+ - [ ] Activate Searing Exarch Altars (79/1000)  
  - [ ] Activate Eater of Worlds Altars (387/1000)
  - [ ] Defeat Witnessed Map Bosses (170/200)
 </details>
@@ -165,28 +165,6 @@
   <summary>Complete Encounters II [CAN BUY or DIY]</summary>
   
  - [ ] Defeat Aul, the Crystal King
-</details>
-
-<details>
-  <summary>Defeat The Black Star Conditionally [DIY]</summary>
-  
- - [ ] While you have at least 30 stacks of Annihilating Light and without gaining any stacks of Crushing Darkness
- - [ ] While you have at least 30 stacks of Crushing Darkness and without gaining any stacks of Annihilating Light
-</details>
-
-<details>
-  <summary>Defeat The Infinite Hunger Conditionally [DIY]</summary>
-  
- - [ ] While you have at least 50 stacks of Corrosive Hunger                                                        
- - [ ] Without gaining 21 or more stacks of Corrosive Hunger and after having been pulled under at least three times
-</details>
-
-<details>
-  <summary>Defeat The Searing Exarch Conditionally [HARD DIY]</summary>
-  
- - [ ] While the area has at least 80% Item Quantity                                                                                                                                            
- - [ ] After completing a Rolling Meteors phase without being hit by any Rolling Meteors from a set of Meteors cast while Searing Exarch is below 20% health and without using any Travel Skills
- - [ ] Without being hit by Annihilation    
 </details>
 
 <details>
