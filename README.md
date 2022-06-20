@@ -19,45 +19,6 @@
 </details>
 
 <details>
-  <summary>Defeat Possessed Rogue Exiles [RANDOM GRIND]</summary>
-  
- - [ ] Ailentia Rac				
- - [ ] Ainsley Varrich			
- - [ ] Antalie Napora			
- - [ ] Armios Bell				
- - [ ] Ash Lessard				
- - [ ] Augustina Solaria		
- - [ ] Aurelio Voidsinger		
- - [ ] Baracus Phraxisanct		
- - [ ] Bolt Brownfur			
- - [ ] Damoi Tui				
- - [ ] Dena Lorenni				
- - [ ] Eoin Greyfur				
- - [ ] Igna Phoenix				
- - [ ] Ion Darkshroud			
- - [ ] Jonah Unchained			
- - [ ] Kirmes Olli				
- - [ ] Lael Furia				
- - [ ] Magnus Stonethorn		
- - [ ] Minara Anemina			
- - [ ] Ohne Trix				
- - [ ] Orra Greengate			
- - [ ] Oyra Ona					
- - [ ] Sevet Tetherein			
- - [ ] Thena Moga				
- - [ ] Thom Imperial			
- - [ ] Tinevin Highdove			
- - [ ] Torr Olgosso				
- - [ ] Ultima Thule				
- - [ ] Ulysses Morvant			
- - [ ] Vanth Agiel				
- - [ ] Vickas Giantbone			
- - [ ] Wilorin Demontamer		
- - [ ] Xandro Blooddrinker		
- - [ ] Zacharie Desmarais	
-</details>
-
-<details>
   <summary>Complete Essence Encounters [EXPENSIVE or RANDOM GRIND]</summary>
   
  - [ ] Defeat an Essence Monster which has at least 4 Rare Modifiers																					
@@ -88,17 +49,10 @@
 <details>
   <summary>Complete Harvest Encounters [EXPENSIVE or RANDOM GRIND]</summary>
   
- - [ ] Defeat a Harvest Boss																			
- - [ ] Harvest the Heart of the Grove																	
+ - [x] Defeat a Harvest Boss																			
+ - [x] Harvest the Heart of the Grove																	
  - [ ] Sacrifice a stack of at least four Divination Cards and receive double that amount back			
- - [ ] Harvest at least 7 Crops in a single Sacred Grove	
-</details>
-
-<details>
-  <summary>Complete Delirium Encounters [HARD DIY]</summary>
-  
- - [ ] Obtain at least 200 Simulacrum Splinters from a single Delirium Mirror																								
- - [ ] Complete Wave 30 of Simulacrum
+ - [x] Harvest at least 7 Crops in a single Sacred Grove	
 </details>
 
 <details>
@@ -121,23 +75,11 @@
 </details>
 
 <details>
-  <summary>Memento Mori [CAN BUY or HARD DIY]</summary>
-  
- - [ ] Defeat High Templar Venarius in Cortex while the area is level 85
-</details>
-
-<details>
-  <summary>Throw the Gauntlet [CAN BUY or HARD DIY]</summary>
-  
- - [ ] Defeat The Maven in Absence of Mercy and Empathy while the area is level 85
-</details>
-
-<details>
   <summary>Defeat Empowered Encounters [RANDOM GRIND]</summary>
   
- - [ ] Defeat a Delirium Boss while it has at least 50 Empowerment in an area of level 80 or higher              
+ - [x] Defeat a Delirium Boss while it has at least 50 Empowerment in an area of level 80 or higher              
  - [ ] Defeat a Breach Boss in its domain while it has at least 50 Empowerment in an area of level 80 or higher  
- - [ ] Defeat a Metamorph while it has at least 50 Empowerment in an area of level 80 or higher  
+ - [x] Defeat a Metamorph while it has at least 50 Empowerment in an area of level 80 or higher  
 </details>
 
 <details>
@@ -158,13 +100,6 @@
  - [ ] Activate Searing Exarch Altars (79/1000)  
  - [ ] Activate Eater of Worlds Altars (387/1000)
  - [ ] Defeat Witnessed Map Bosses (170/200)
-</details>
-
-
-<details>
-  <summary>Complete Encounters II [CAN BUY or DIY]</summary>
-  
- - [ ] Defeat Aul, the Crystal King
 </details>
 
 <details>
@@ -192,7 +127,7 @@
   <summary>Defeat Uber Elder Conditionally [HARD DIY]</summary>
   
  - [ ] After defeating 3 Madness Propagators within 5 seconds            
- - [ ] Without taking damage from The Shaper's Beam  
+ - [x] Without taking damage from The Shaper's Beam  
  - [ ] Without detonating any Volatile Anomalies     
  - [ ] After detonating 20 or more Volatile Anomalies        
 </details>
