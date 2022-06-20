@@ -166,3 +166,5 @@
  - [ ] Reach Depth Level 600 in your Azurite Mine
  - [ ] Defeat Tier 16 Map Bosses with at least 50 Empowerment (48/200)
 </details>
+
+### Total: 25 of 40
