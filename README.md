@@ -3,10 +3,32 @@
 <details>
   <summary>Use Sentinels [CAN BUY]</summary>
   
-- [ ] Ancient Pandemonium Sentinel
-- [ ] Primeval Stalker Sentinel
-- [ ] Ancient Stalker Sentinel
-- [ ] Primeval Apex Sentinel
+ - [x] Rusted Stalker Sentinel
+ - [x] Bronze Stalker Sentinel
+ - [x] Cobalt Stalker Sentinel
+ - [x] Brimstone Stalker Sentinel
+ - [x] Emberstone Stalker Sentinel
+ - [x] Obsidian Stalker Sentinel
+ - [x] Cryptic Stalker Sentinel
+ - [ ] Primeval Stalker Sentinel
+ - [ ] Ancient Stalker Sentinel
+ - [x] Bronze Pandemonium Sentinel
+ - [x] Cobalt Pandemonium Sentinel
+ - [x] Brimstone Pandemonium Sentinel
+ - [x] Emberstone Pandemonium Sentinel
+ - [x] Obsidian Pandemonium Sentinel
+ - [x] Cryptic Pandemonium Sentinel
+ - [x] Primeval Pandemonium Sentinel
+ - [ ] Ancient Pandemonium Sentinel
+ - [x] Bronze Apex Sentinel
+ - [x] Cobalt Apex Sentinel
+ - [x] Brimstone Apex Sentinel
+ - [x] Emberstone Apex Sentinel
+ - [x] Obsidian Apex Sentinel
+ - [x] Cryptic Apex Sentinel
+ - [ ] Primeval Apex Sentinel
+ - [x] Ancient Apex Sentinel
+ - [x] Cosmic Apex Sentinel
 </details>
 
 <details>
