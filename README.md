@@ -33,7 +33,7 @@
 <details>
   <summary>Complete Endgame Grinds [LONG TIME GRIND]</summary>
   
- - [x] Level 100
+ - [x] Level 100 (100/100)
  - [ ] Use the Divine Font in the Endgame Labyrinth (31/250)            
  - [ ] Defeat 4-mod Rare Monsters in Tier 16 Maps (93/100)  
  - [x] Defeat Uber Bosses (100/100)     
