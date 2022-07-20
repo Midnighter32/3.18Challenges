@@ -30,4 +30,4 @@
  - [ ] Defeat The Restless Shade in Grave Trough Map while they are Empowered by Insomnia         
 </details>
 
-### Total: 36 of 40
+### Total: 37 of 40
