@@ -12,22 +12,9 @@
 <details>
   <summary>Atlas Grinds [LONG TIME GRIND]</summary>
   
- - [ ] Activate Searing Exarch Altars (489/1000)  
+ - [ ] Activate Searing Exarch Altars (533/1000)  
  - [ ] Activate Eater of Worlds Altars (401/1000)
  - [x] Defeat Witnessed Map Bosses (200/200)
 </details>
 
-<details>
-  <summary>Defeat Empowered Map Bosses [CAN BUY]</summary>
-  
- - [ ] Defeat Suncaller Asha in Park Map while they are Empowered by The Angel of Vengeance            
- - [ ] Defeat Maligaro the Mutilator in Overgrown Shrine Map while they are Empowered by The Epiphany  
- - [ ] Defeat Amalgam of Nightmares in Carcass Map while they are Empowered by The Twisted Trinity     
- - [ ] Defeat Stone of the Currents in Wharf Map while they are Empowered by The Unbridled Tempest     
- - [ ] Defeat Shavronne the Sickening in Cells Map while they are Empowered by The Narcissist          
- - [ ] Defeat Portentia, the Foul in Waste Pool Map while they are Empowered by The Depraved           
- - [ ] Defeat Fire and Fury in Lava Chamber Map while they are Empowered by The Raging Inferno         
- - [ ] Defeat The Restless Shade in Grave Trough Map while they are Empowered by Insomnia         
-</details>
-
-### Total: 37 of 40
+### Total: 38 of 40
